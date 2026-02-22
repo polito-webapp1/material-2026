@@ -1,4 +1,4 @@
-# [Web Applications I / Applicazioni Web I (2024/2026](https://github.com/polito-webapp1)
+# [Web Applications I / Applicazioni Web I (2025/2026)](https://github.com/polito-webapp1)
 
 Material for the course of _Web Applications I_ (in English) and _Applicazioni Web I_ (in Italian) for the Master Degree in Computer Engineering at Politecnico di Torino.
 
@@ -9,35 +9,35 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 ### Javascript
 
-- [JavaScript Basics]
-- [JavaScript Objects and Functions]
-- [Asynchronous Programming in JavaScript]
+- [JavaScript Basics](./slide/1-01-javascript-basics.pdf)
+- [JavaScript Objects and Functions](./slide/1-02-javascript-objects-functions.pdf)
+- [Asynchronous Programming in JavaScript](./slide/1-03-javascript-async-programming.pdf)
 
 
 ### Web Servers and server-side APIs
-- [Express]
-- [HTTP APIs]
-- [Authentication]
+- Express
+- HTTP APIs
+- See **Reading 1** for Authentication
 
 
 ### Browsers and client-side applications
-- See [**Reading 1**]
-- [fetch API]
+- See **Reading 1** for a review of HTML and CSS
+- fetch API
 
 
 ### React
-- [Introduction to React]
-- [JSX, Components, props]
-- [Components and state]
-- [Forms]
-- [Context]
-- [React Router]
-- [Client-Server Interaction in React]
-- [React Life Cycle]
+- Introduction to React
+- JSX, Components, props
+- Components and state
+- Forms
+- Context
+- React Router
+- Client-Server Interaction in React
+- React Life Cycle
 
 ## Readings
 
-1. [HTML and CSS]
+1. Authentication in Express. HTML and CSS.
 
 
 ## Laboratories
