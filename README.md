@@ -37,7 +37,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 ## Readings
 
-1. Authentication in Express. HTML and CSS.
+1. [Authentication in Express. HTML and CSS.](/readings/2-03-reading.pdf)
 
 
 ## Laboratories
