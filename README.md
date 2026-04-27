@@ -20,9 +20,8 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - See **Reading 1** for Authentication
 
 
-### Browsers and client-side applications
+### Browsers
 - See **Reading 1** for a review of HTML and CSS
-- fetch API
 
 
 ### React
@@ -32,8 +31,9 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [Forms](./slide/3-04-Forms.pdf)
 - [Context](./slide/3-05-Context.pdf)
 - [React Router](./slide/3-06-React-Router.pdf)
-- Client-Server Interaction in React
-- React Life Cycle
+- [fetch API](./slide/3-07-fetch.pdf)
+- [React Life Cycle](./slide/3-08-LifeCycle.pdf)
+- [Client-Server Interaction in React](./slide/3-09-Client-Server-React.pdf)
 
 ## Readings
 
