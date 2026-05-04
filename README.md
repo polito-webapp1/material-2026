@@ -18,6 +18,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [Express](./slide/2-01-Express.pdf)
 - [HTTP APIs](./slide/2-02-API.pdf)
 - See **Reading 1** for Authentication
+    - [Authentication with Passport.js](./slide/2-03-Authentication.pdf)
 
 
 ### Browsers
@@ -34,6 +35,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [fetch API](./slide/3-07-fetch.pdf)
 - [React Life Cycle](./slide/3-08-LifeCycle.pdf)
 - [Client-Server Interaction in React](./slide/3-09-Client-Server-React.pdf)
+- [Authentication with Passport.js - the Client Side](./slide/3-10-Authentication-clientside.pdf)
 
 ## Readings
 
